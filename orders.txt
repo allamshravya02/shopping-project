@@ -1,12 +1,12 @@
 Order001 - Laptop
 Order002 - Mouse
 Order003 - Keyboard
-Order004 - Smartphone
-Order005 - Printer
-Order006 - Headphones
-Order007 - Monitor
-Order008 - Tablet
-Order009 - Webcam
-Order010 - USB Cable 
-Order010 - External Hard Disk  
-Order010 - Bluetooth Speaker
+Order004 - Monitor
+Order005 - Headphones
+Order006 - Webcam
+Order007 - Printer
+Order008 - USB Cable
+Order009 - External Hard Disk
+Order010 - Smartphone
+Order011 - Tablet
+Order012 - Bluetooth Speaker
