@@ -8,5 +8,5 @@ Order007 - Printer
 Order008 - USB Cable
 Order009 - External Hard Disk
 Order010 - Smartphone
-Order011 - Tablet
+
 Order012 - Bluetooth Speaker
